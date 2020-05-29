@@ -1,2 +1,3 @@
 # hello-earth
-My name is Theo from Ethiopia
+
+Theo here, from Ethiopia
